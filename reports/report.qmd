@@ -1,0 +1,117 @@
+---
+title: Homework 4 - Designing a navigation strategy
+author: default author
+date: last-modified
+format:
+  html:
+    embed-resources: true
+    theme: cosmo
+---
+
+* [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw2-template)
+* [LINK to FIGMA PROTOTYPE CODE](https://www.figma.com/file/aSqekRNJn6DM1VMivvoibQ/Storyboard-Creator---Public-Demo-(Community)?type=design&node-id=111%3A2028&mode=design&t=PGNCnlkYRkizaQuu-1)
+
+
+(this is the sample document.  You need to make it your own.)
+
+(Your report should follow the outline below, found under the easter eggs.)
+
+# Easter eggs for this report (remove)
+
+Remove these sections and start your report with the introduction below.
+
+## How would you build this in P5JS? (remove)
+
+```{=html}
+<center>
+<iframe src="https://giphy.com/embed/l1g3RddMFNWNcJ1wiD" 
+ data-external="1" 
+width="347"
+height="480" 
+frameBorder="0" 
+class="giphy-embed" 
+allowFullScreen
+></iframe>
+</center>
+```
+**Questions**
+
+* How many layers would you need?
+* How many assets would you need?
+* How would you construct this in P5.js?
+
+Please remove this section.  You do not need to submit responses as part of this homework assignment. 
+I added it just to keep you thinking! 
+
+## Want to be a web designer? (remove)
+
+![](./assets/web-designer-infographic.jpeg)
+
+
+# Introduction
+
+- Explain the purpose of the navigation strategy.
+- Briefly describe the story told in five (or more) panels.
+
+# Panels to Include
+
+(This section can be reused from a previous homework assignment.)
+(there should be at least 5 subsections, one for each panel.)
+
+## Panel 1 (rename section)
+
+![](assets/panel1.png)
+
+- description
+- message to convey
+
+## Panel 2 (rename section)
+
+![](assets/panel2.png)
+
+- description
+- message to convey
+
+## Include sections for other panels
+
+(more stuff here)
+
+# Navigation Goals
+
+- State what you want users to achieve by navigating through the panels.
+- Highlight the key points or emotions to convey.
+
+# Navigation Elements
+
+- Explain how users will move from one panel to another.
+- Mention if there are buttons, arrows, or gestures involved.
+
+# Figma mockup
+
+- Add the figma mockup in an iframe.
+- Explain how to use it in this section.
+
+```{=html}
+<center>
+<iframe
+src="https://editor.p5js.org/reajmorais/full/8UxKOWank"
+width=1100
+height=850
+data-external="1"
+></iframe>
+</center>
+```
+
+# User Testing
+
+- Share your design with someone else.
+- Explain your user testing procedure.  What did you ask?  What did they say?
+- Consider their feedback and make adjustments as needed.
+
+
+# Reflection
+
+* What did you find most satisfying about this assignment?
+* What did you find most difficult about this assignment? 
+* Given more time, what would you do differently?
+
