@@ -1,6 +1,6 @@
 ---
 title: Homework 4 - Designing a navigation strategy
-author: default author
+author: Satya Shenoy
 date: last-modified
 format:
   html:
@@ -8,110 +8,96 @@ format:
     theme: cosmo
 ---
 
-* [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw2-template)
-* [LINK to FIGMA PROTOTYPE CODE](https://www.figma.com/file/aSqekRNJn6DM1VMivvoibQ/Storyboard-Creator---Public-Demo-(Community)?type=design&node-id=111%3A2028&mode=design&t=PGNCnlkYRkizaQuu-1)
-
-
-(this is the sample document.  You need to make it your own.)
-
-(Your report should follow the outline below, found under the easter eggs.)
-
-# Easter eggs for this report (remove)
-
-Remove these sections and start your report with the introduction below.
-
-## How would you build this in P5JS? (remove)
-
-```{=html}
-<center>
-<iframe src="https://giphy.com/embed/l1g3RddMFNWNcJ1wiD" 
- data-external="1" 
-width="347"
-height="480" 
-frameBorder="0" 
-class="giphy-embed" 
-allowFullScreen
-></iframe>
-</center>
-```
-**Questions**
-
-* How many layers would you need?
-* How many assets would you need?
-* How would you construct this in P5.js?
-
-Please remove this section.  You do not need to submit responses as part of this homework assignment. 
-I added it just to keep you thinking! 
-
-## Want to be a web designer? (remove)
-
-![](./assets/web-designer-infographic.jpeg)
+* [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw4-shenoysl)
+* [LINK to FIGMA PROTOTYPE CODE](https://www.figma.com/proto/7bDVoI0YU7Byz1FxZsyT1J/CMSC475-HW2?type=design&node-id=2-2&t=sAC4vUHQ5BDCsg7v-1&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A2&show-proto-sidebar=1&mode=design)
 
 
 # Introduction
 
-- Explain the purpose of the navigation strategy.
-- Briefly describe the story told in five (or more) panels.
+- The 5 panels that are shown below are all connected by one thing, me! They are all a depiction of something that is important to me, that I believe in truly and has shaped me to the be the person I am today. 
+- The final panel is a crescendo of all the panels before it, as it has design elements brought in from all the other panels
+- Due to this, my main strategy in navigation is to not allow the user to move from the first panel to the last as they will not understand the true culmination. 
 
 # Panels to Include
 
-(This section can be reused from a previous homework assignment.)
-(there should be at least 5 subsections, one for each panel.)
+## Panel 1 - contact information
 
-## Panel 1 (rename section)
+![](assets/Shenoy-HW2-Frame1.png)
 
-![](assets/panel1.png)
+This is a contact card with my contact information and the overall design has an old-timey flair. 
 
-- description
-- message to convey
+## Panel 2 - Passion
 
-## Panel 2 (rename section)
+My first theme is *passion*.  Below is my storyboard.
+This theme is *passion*.
 
-![](assets/panel2.png)
+![](assets/Shenoy-HW2-Frame2.png)
 
-- description
-- message to convey
+I selected *passion* because I believe it is one of the most important emotions that we exhibit, it can be positive or negative but in my case I use passion as my driving force to move further in life and gain success and hapiness in whichever way I can. I would not still be in Computer Science now as a Senior if I wasn't passionate about this subject, my favorite athletes that I look up to would always mention how they can go through any ups and downs but still stay resilient and perservere because they have true passion for their sport and want to succeed no matter what. I envision passion as a fire burning inside us, as it is an incredibly intense emotion that we feel, it is a fire that lights the way towards success, and this is why I am using this fire as the design element for my storyboard. 
 
-## Include sections for other panels
+## Panel 3 - Curiosity
 
-(more stuff here)
+This theme is *curiosity*.
+
+![](assets/Shenoy-HW2-Frame3.png)
+
+I selected *curiosity* because I feel it is my driving force to problem solve, come up with new ideas, understand what is happening around me. I have always been curious when it comes to any aspect of my life, schoolwise I would always be asking questions to the teachers as I felt being curious and proposing questions was the best and most effective method in how I can learn a topic or subject. My curiosity also lends me to be a very good problem solver as I ask myself many questions on how I can tackle certain problems and build off that. This storyboard depicts curiosity for me because I am always having questions to ask internally to myself or externally to someone else so that's why there are various question marks going around the person's head. Additionally, I wanted to show how it feels like a lightbulb flicking on when I eventually am able to resolve the situation after prying or digging deeper, so that is why the person's head is basically just a lightbulb. 
+
+
+## Panel 4 - Sustainability
+
+This theme is *sustainability*.
+
+![](assets/Shenoy-HW2-Frame4.png)
+
+I selected *sustainability* because ever since childhood, I have always loved the outdoors, going out on serene trips to Shenandoah, going on hiking trails, and just spending time with my family and friends outdoors has been something I have always cherished. Sustainability to me, means taking care of our wildlife and our environment as much as we can, never taking them for granted, and realizing the true beauty of the outdoors. My storyboard depicts a simple nature landscape, it is actually pretty similar to a pond I would visit a lot with my family, anytime we drove by, I would make sure to to take in it's beauty. 
+
+## Panel 5 - Closing panel
+
+This is my concluding frame.
+
+![](assets/Shenoy-HW2-Frame5.png)
+
+I went with this design as my *closing panel* because I felt like it was a really nice cohesive way of tying all of the other themes and design elements from my middle panels into one. The environment and nature landscape depicts my love of nature and the outdoors and the theme of sustainiabilty, the question marks above the person's head depicts curiosity as I would be wondering where I can go next, where I can explore next when day comes. Another element I added was the campfire which connects with my theme of passion, the fire burns inside me to continue to explore and I use it as something to push me forward. 
 
 # Navigation Goals
 
-- State what you want users to achieve by navigating through the panels.
-- Highlight the key points or emotions to convey.
+- When navigating through the panels, I want the users to have a very ease of access the ways to navigate around should make sense to any ordinary person
+- Another goal was to have multiple options of navigation, I kept in mind the various ways someone would think of moving from one panel to another
+- A key point I wanted to ensure is that I did not want the user to be able to skip from the first panel straight to the last panel because I want them to understand the design elements in the final panel
+- The final panel serves as a culmination of everything, so I want them to atleast look at another panel before going to the final panel as it would be confusing as to why that is my closing panel
+- With that being said, they can go from the last panel back to the first, as that made more sense so they can rerun through the panels
+
 
 # Navigation Elements
 
-- Explain how users will move from one panel to another.
-- Mention if there are buttons, arrows, or gestures involved.
+- As I mentioned in the previous section, I wanted users to have various options to navigate
+- The first option is by simply clicking on the panels, a simple click will allow the user to move to the next panel all the way back to the beginning and so forth
+- Another option is by using the left and right arrow keys, hitting the right arrow key will allow you to go the next panel, the left arrow key will send you back to the previous panel
+- One exception to this arrow key option is that the left arrow key on the first panel will not do anything, as I made sure not to allow the user to go from the first panel straight to the last panel
+- The third and final option of navigation is by using the number keys on the keyboard, the number keys 1-5 will redirect you to the corresponding panel, 1 being the first panel, 2 the second etc.
+- Lastly, if you are on the first panel, hitting the number 5 key will not do anything to reinstate the disallowment of going freely to the final panel from the first.
 
 # Figma mockup
 
-- Add the figma mockup in an iframe.
-- Explain how to use it in this section.
+- Here is the mockup as you can see the frames are in the center, to navigate you may click on the panels to go to the next panel, use the number keys, or use the left and right arrow keys
+- I have explained each navigation element in the previous section and you may use all 3 of them on this figma prototype. 
 
 ```{=html}
 <center>
-<iframe
-src="https://editor.p5js.org/reajmorais/full/8UxKOWank"
-width=1100
-height=850
-data-external="1"
-></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F7bDVoI0YU7Byz1FxZsyT1J%2FCMSC475-HW2%3Ftype%3Ddesign%26node-id%3D2-2%26t%3DsAC4vUHQ5BDCsg7v-1%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A2%26mode%3Ddesign" allowfullscreen data-external="1"></iframe>
 </center>
 ```
 
 # User Testing
 
-- Share your design with someone else.
-- Explain your user testing procedure.  What did you ask?  What did they say?
-- Consider their feedback and make adjustments as needed.
+- I shared my prototype with my sister who is not as technologically inclined as me.
+- I wanted her to test it out because I wanted to ensure the navigation was easy and understandable for any ordinary person who may not thoroughly understand technology and using computers.
+- She told me she really liked my choices for the navigation elements and that they all made sense, going from a very simple element like clicking to something more intriguing like the number keys.
+- Overall, she found navigating through the prototype to be simple and enjoyable.
 
 
 # Reflection
 
-* What did you find most satisfying about this assignment?
-* What did you find most difficult about this assignment? 
-* Given more time, what would you do differently?
+I thoroughly enjoyed this assignment because I was able to spend more time with Figma and learn even more about its various features and tools that are not even about design but on user experience and navigation. Creating the prototype was a lot of fun because I could play around with it a ton and try to map different keys to different things or other clicks, gestures etc. There was honestly not much I found difficult in the assignment because Figma is such an incredibly easy tool to work with and the resources on Canvas helped me tremendously in understanding exactly how to create the prototypes and what each option in the prototype section means and does. The only part I really had any trouble with was getting the working prototype into this qmd file as my iframe was not working but I checked the class Discord server and I found the solution. Given more time, I would have possibly gone around and had a lot more people test the UX and see if I truly made the right decisions when creating the various navigation elements. 
 
